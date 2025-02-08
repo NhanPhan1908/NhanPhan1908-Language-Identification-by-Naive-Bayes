@@ -1,0 +1,7 @@
+models/*.pkl
+*.pkl
+*.npy
+*.csv  
+env/
+venv/
+.venv/
